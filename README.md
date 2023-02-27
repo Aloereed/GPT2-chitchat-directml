@@ -1,4 +1,9 @@
-# GPT2 for Chinese chitchat
+# GPT2 for Chinese chitchat (DirectML)
+## 使用方法
+使用方法请一直向下翻滚。
+
+## 测试
+Intel A770 16GB。可训练和推断，但是训练时极容易出现Runtime Error（掉显卡驱动？）。
 
 ## UPDATE 2022.12.04
 发布了中文预训练CLIP模型，使用140万中文图文对数据进行预训练，在图文相似度、文本相似度、图片相似度任务上有不错的表现。

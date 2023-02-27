@@ -1,0 +1,9 @@
+transformers
+torch-directml
+scikit-learn
+tqdm
+numpy
+scipy
+tensorboard
+pandas
+jieba
